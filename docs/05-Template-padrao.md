@@ -2,7 +2,7 @@
 
 <span style="color:red">Pré-requisitos: <a href="02-Especificacao.md"> Especificação do projeto</a></span>, <a href="03-Metodologia.md"> Metodologia</a>, <a href="04-Projeto-interface.md"> Projeto de interface</a>
 
-Layout padrão da aplicação que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
+Layout padrão da aplicação que será utilizado em todas as páginas, definindo a identidade visual, aspectos de responsividade e iconografia. Inclui também o manual da marca, com orientações sobre paleta de cores, tipografia, elementos gráficos e uso correto do logotipo, além da explicação do processo de criação e do significado do logo, evidenciando sua relação com a proposta visual e os valores da aplicação. Deve ser apresentada apenas uma tela de exemplo para demonstrar a aplicação do template e das diretrizes visuais.
 
 > **Links úteis**:
 >
