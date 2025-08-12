@@ -47,8 +47,38 @@ São protótipos usados no design de interface para sugerir a estrutura de um si
 > - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
 
 
+## Protótipo interativo
+
+Apresente o protótipo interativo das telas da aplicação, permitindo a navegação simulada pelo sistema. Esse protótipo deve refletir as funcionalidades e interações planejadas, e servir como base para validação com usuários e equipe.  
+
+> **Exemplo:** inserir link para o protótipo no Figma, MarvelApp, InvisionApp, etc.
+
+
+## Jornada do usuário
+
+A jornada do usuário descreve, em alto nível de detalhes, as etapas que diferentes perfis de usuários realizam para concluir uma tarefa específica na aplicação. Essa técnica ajuda a identificar pontos fortes e oportunidades de melhoria na experiência.  
+
+O mapa da jornada do usuário deve contemplar:  
+- Etapas: desde a descoberta até a finalização da tarefa.  
+- Ações do usuário: o que o usuário faz em cada etapa.  
+- Pontos de contato: onde a interação acontece (site, app, suporte).  
+- Emoções e percepções: como o usuário se sente em cada momento.  
+
+**Fases baseadas no modelo AIDA**:  
+1. Conscientização: despertar conhecimento sobre o produto (inspiração)  
+2. Interesse: aumentar o interesse e engajamento (favoritismo)  
+3. Desejo: estimular a intenção de uso/compra (desejo)  
+4. Ação: execução da ação esperada (implementação)  
+
+> **Importante:** insira a figura do mapa da jornada do usuário para ilustrar visualmente o fluxo e as etapas descritas.
+
+> **Links úteis**:
+> - [Dicas sobre como mapear uma jornada do usuário](https://www.userinterviews.com/blog/best-customer-journey-map-templates-examples)
+> - [Jornada do usuário versus user flow](https://www.nngroup.com/articles/user-journeys-vs-user-flows/)
+
+
 ## Interface do sistema
 
-Visão geral da interação do usuário por meio das telas do sistema. 
+Apresente **todas as interfaces do sistema**, em sua versão final, descrevendo brevemente a função de cada tela.
 
-> Apresente as principais interfaces da plataforma em sua versão final.
+> Inserir imagens das telas.
