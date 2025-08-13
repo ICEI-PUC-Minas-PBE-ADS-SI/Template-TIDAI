@@ -28,7 +28,7 @@ O Diagrama Entidade-Relacionamento (DER), em notação Peter Chen, representa de
 
 Elabore o modelo utilizando uma ferramenta de modelagem apropriada.
 
-![Exemplo de um modelo conceitual](images/modelo_conceitual.png "Exemplo de modelo conceitual.")
+![Exemplo de um modelo conceitual](images/modelo_conceitual.PNG "Exemplo de modelo conceitual.")
 ---
 
 > **Links úteis**:
